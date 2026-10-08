@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>푸터 구역</div>
+    <footer>푸터 구역</footer>
   )
 }
 
